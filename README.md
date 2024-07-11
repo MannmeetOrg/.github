@@ -41,6 +41,11 @@ Highly Skilled Professional with 17+ years deep hands-on experience in multiple 
 ## Experience
 
 
+Connect with me:
+![image](https://github.com/MannmeetOrg/.github/assets/174325221/6cb4e35c-7fc8-49e9-a5c9-0ffd83e4d68f)
+LinkedIn  
+![image](https://github.com/MannmeetOrg/.github/assets/174325221/bd56fe9e-129d-46f6-9c7a-e6f0eebfff17)
+Github
 
 
 
