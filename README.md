@@ -3,13 +3,13 @@
 Hello All, I am Mannmeet Ahir. I am Cloud Devops Engineer. 
 Address: Dighi, [Pune, Maharashtra, 411015]
 
-Objective
+## Objective
 Highly Skilled Professional with 17+ years deep hands-on experience in multiple IT infrastructure technologies in designing, implementing, and managing complex infrastructures. Proficient in multiple DevOps tools and techniques and knowledgeable in infrastructure automation and configuration management.
 
-Education
+## Education
 Master of Computer Management - Computer Applications	1999 - 2001 -- University of Pune, Pune
 
-Certifications
+## Certifications
 
 AWS Solution Architect Associate	2023 -- Amazon Web Services
 Certified Scrum Master	2023 -- Scrum Alliance
@@ -24,7 +24,7 @@ Storage Technology and Foundation (EMCISA)	2009 -- DELL EMC
 RedHat Certified Professional (RHCE)	2008 -- Redhat
 VERITAS Backup Exec 10D	2007 -- Veritas
 
-Skills
+## Skills
 
 Versioning Tools                               : Git, GitHub
 CI/CD                                          : Jenkins
@@ -38,7 +38,7 @@ Operating System	                             : Windows, Linux
 Issue Tracking and knowledge base	             : JIRA, Bugzilla, Salesforce, Confluence
 Virtualization, backup and disaster recovery   : Vmware, Hyper-V, Datadomain, Disaster recovery software’s, Backup & Storage Appliances etc.
 
-Experience
+## Experience
 
 
 
