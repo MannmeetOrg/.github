@@ -71,12 +71,12 @@ I'm a **results-driven Cloud Infrastructure Engineer** with over **17 years of h
 ---
 ##  Repositories
 
-https://github.com/MannmeetOrg/flask-aws-terraform.git
-https://github.com/MannmeetOrg/deploy_jenkins_server.git
-https://github.com/MannmeetOrg/ha-two-tier-aws-terraform-jenkins.git
-https://github.com/MannmeetOrg/roboshop-shell.git
+- Flask AWS Terraform Deployment - https://github.com/MannmeetOrg/flask-aws-terraform.git
+- Deployment of Jenkins Server - https://github.com/MannmeetOrg/deploy_jenkins_server.git
+- ha-two-tier-aws-terraform-jenkins - https://github.com/MannmeetOrg/ha-two-tier-aws-terraform-jenkins.git
+- RoboShop - Shell Script Automation - https://github.com/MannmeetOrg/roboshop-shell.git
+- Building on deploying 10-Tier Microservices Application on AWS EKS- https://github.com/MannmeetOrg/stylestack-on-eks.git
 
-- Building on deploying 10-Tier Microservices Application on AWS EKS coming soon..
 ---
 
 ## 🎓 Education
