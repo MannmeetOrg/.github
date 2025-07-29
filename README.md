@@ -6,7 +6,7 @@
 
 ## 🧩 About Me
 
-I'm a **results-driven Cloud Infrastructure Engineer** with over **17 years of hands-on experience** in designing, automating, and optimizing scalable cloud solutions.
+I'm a. **Seasoned Cloud Infrastructure Engineer** with **17+ years Core Infra**, **5 Years of experience** in designing, automating, and optimizing scalable cloud solutions.
 
 ✅ Delivered **25% cost savings** and **40% performance improvements** through automation and optimization  
 ✅ Passionate about **cloud automation, DevOps pipelines, high availability**, and **infrastructure resilience**  
