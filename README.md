@@ -59,16 +59,12 @@ I'm a. **Seasoned Cloud Infrastructure Engineer** with **17+ years Core Infra**,
 ## 💼 Experience Highlights
 
 ### 🔹 **ARCSERVE | Senior Cloud Engineer** (Hyderabad, 2022–2023)
-- Introduced **Terraform IaC** across projects, boosting operational efficiency by 20%
-- Managed **180+ incidents/year** and optimized CI/CD automation pipelines
-- Mentored DevOps teams on **IaC and best practices**
-
 ### 🔹 **Dell Technologies | Sr. Technical Advisor** (Bangalore, 2017–2022)
-- Migrated legacy infra to **AWS**, achieving 99.99% uptime & 40% performance gains
-- Automated deployments using **Terraform**, halving time-to-market
-- Led cloud DR and HA strategy using **multi-region RDS, S3, and failover** setups
+### 🔹 **Symantec Corporation | Sr. Product Analyst** (Pune, 2006-2008)
+### 🔹 **VCustomer India | Sr Technical Engineer ** (Pune, 2004-2006)
 
 ---
+
 ##  Repositories
 
 - Flask AWS Terraform Deployment - https://github.com/MannmeetOrg/flask-aws-terraform.git
@@ -82,10 +78,10 @@ I'm a. **Seasoned Cloud Infrastructure Engineer** with **17+ years Core Infra**,
 ## 🎓 Education
 
 **Master of Computer Management (MCM)**  
-Savitribai Phule Pune University | 1999 – 2001
+Savitribai Phule Pune University | 2001
 
 **Bachelor of Commerce (Business Administration)**  
-Savitribai Phule Pune University | 1996 – 1999
+Savitribai Phule Pune University | 1999
 
 ---
 
