@@ -75,7 +75,8 @@ https://github.com/MannmeetOrg/flask-aws-terraform.git
 https://github.com/MannmeetOrg/deploy_jenkins_server.git
 https://github.com/MannmeetOrg/ha-two-tier-aws-terraform-jenkins.git
 https://github.com/MannmeetOrg/roboshop-shell.git
-Building on deploying 10-Tier Microservices Application on AWS EKS coming soon..
+
+- Building on deploying 10-Tier Microservices Application on AWS EKS coming soon..
 ---
 
 ## 🎓 Education
