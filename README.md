@@ -90,8 +90,8 @@ Savitribai Phule Pune University | 1996 – 1999
 
 ## 🔗 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/manmeetkahir)
-- 🧰 [GitHub Projects](https://github.com/MannmeetOrg/.github.git)
+- 🔗 [![image](https://github.com/MannmeetOrg/.github/assets/174325221/6cb4e35c-7fc8-49e9-a5c9-0ffd83e4d68f)](https://www.linkedin.com/in/manmeetkahir)
+- 🧰 [![image](https://github.com/MannmeetOrg/.github/assets/174325221/bd56fe9e-129d-46f6-9c7a-e6f0eebfff17)](https://github.com/MannmeetOrg/.github.git)
 - 💬 Reach out for collaboration, mentorship, or cloud projects!
 
 ---
