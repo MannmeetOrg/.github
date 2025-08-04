@@ -95,16 +95,6 @@ I'm a. **Seasoned Cloud Infrastructure Engineer** with **17+ years Core Infra**,
 
 ---
 
-## 🎓 Education
-
-**Master of Computer Management (MCM)**  
-Savitribai Phule Pune University | 2001
-
-**Bachelor of Commerce (Business Administration)**  
-Savitribai Phule Pune University | 1999
-
----
-
 ## 🔗 Let's Connect!
 
 - 🔗 [![image](https://github.com/MannmeetOrg/.github/assets/174325221/6cb4e35c-7fc8-49e9-a5c9-0ffd83e4d68f)](https://www.linkedin.com/in/manmeetkahir)
