@@ -56,14 +56,34 @@ I'm a. **Seasoned Cloud Infrastructure Engineer** with **17+ years Core Infra**,
 
 ---
 
-## 💼 Experience Highlights
+✅ Things I Learned
+	- Containerized and deployed Flask apps using Docker and integrated Jenkins CI/CD on AWS EC2.
+	- Provisioned HA AWS infrastructure with Terraform, Jenkins pipelines, and remote state handling.
+	- Built and deployed 10-tier microservices on EKS using Helm, Ingress, and ECR.
+	- Set up Kubernetes monitoring with Prometheus, Grafana, and Slack alerts using Helm.
+	
+⚠️ Problems I Encountered
+	- Docker image and port mismatch caused app failures and build errors from missing files.
+	- Jenkins setup had Java issues, Docker permissions, and plugin auto-setup gaps.
+	- Terraform state lock conflicts and incorrect subnet or AMI selection affected automation.
+	- Kubernetes DNS issues, Ingress misconfig, and Helm chart errors disrupted service exposure.
 
-### 🔹 **ARCSERVE | Senior Cloud Engineer** (Hyderabad, 2022–2023)
-### 🔹 **Dell Technologies | Sr. Technical Advisor** (Bangalore, 2017–2022)
-### 🔹 **Symantec Corporation | Sr. Product Analyst** (Pune, 2006-2008)
-### 🔹 **VCustomer India | Sr Technical Engineer ** (Pune, 2004-2006)
+💡 My Takeaways
+	- Always validate network configs, port mappings, and environment variables early.
+	- Script installations and IAM roles for repeatable infra provisioning and secure pipelines.
+	- Use Helm values, annotations, and standardized manifests to streamline Kubernetes ops.
+	- Cloud platform IAM (AWS/GCP) must be planned carefully for least privilege and CI/CD flow.
 
 ---
+
+## 💼 Experience Highlights
+
+### 🔹 **ARCSERVE | Senior Cloud Engineer** 
+### 🔹 **Dell Technologies | Sr. Technical Advisor** 
+
+
+---
+
 
 ##  Repositories
 
